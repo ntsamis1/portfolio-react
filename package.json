@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build_react" : "cd frontend_react && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntsamis1/portfolio-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntsamis1/portfolio-react/issues"
+  },
+  "homepage": "https://github.com/ntsamis1/portfolio-react#readme"
+}
